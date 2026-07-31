@@ -1,0 +1,16 @@
+{
+  "name": "agent-plugins",
+  "owner": {
+    "name": "emanuelnader"
+  },
+  "metadata": {
+    "description": "Personal marketplace of favorite Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "Template plugin showing the folder layout — replace with a real favorite plugin or delete."
+    }
+  ]
+}
